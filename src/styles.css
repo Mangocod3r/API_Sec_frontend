@@ -1,0 +1,7 @@
+.actions-column {
+    width: 200px;
+  }
+  
+.actions-column .btn {
+    margin-left: 3px !important;
+}
